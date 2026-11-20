@@ -30,7 +30,6 @@ gradle :app:assembleRelease
 # app/build/outputs/apk/release/app-release.apk
 ```
 ⁢
-## 文档
 ## 免责声明
 - 柔光玻璃是实时渲染效果，官方对硬件有门槛；在未适配的老机型上强开 可能带来耗电、发热或掉帧。
 - 本项目只写 `persist.*` 属性与 `Settings.Secure`，可完整还原， 但不承诺对所有 ROM 版本、所有第三方模块组合都有效。
